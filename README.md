@@ -1,2 +1,13 @@
 # Basic-Tip-Calculator
-Calculates total bill given original bill and tip percentage
+Calculator that inputs: 
+    - bill
+    - tip percent
+And outputs: 
+    - tip in dollars
+    - total in dollars
+
+ex: 
+bill: $100
+tip: 20%
+tip amount: $20
+total: $120
